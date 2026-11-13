@@ -1,17 +1,12 @@
-# created by virtualenv automatically
-*
-# Python
 __pycache__/
 *.pyc
+*.egg-info/
 .venv/
 venv/
-env/
- 
-# PyCharm
 .idea/
- 
-# OS
+.vscode/
+.pytest_cache/
 .DS_Store
- 
-# Generated data (keep the figures, ignore the demo CSV)
-gene_data.csv
+# downloaded data and run outputs
+data/
+out/

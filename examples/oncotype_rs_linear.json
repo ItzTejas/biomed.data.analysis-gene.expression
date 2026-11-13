@@ -1,0 +1,8 @@
+{
+  "name": "21-gene Recurrence Score (linear approximation)",
+  "source": "Paik et al., NEJM 2004, doi:10.1056/NEJMoa041588",
+  "cancer": "BRCA",
+  "notes": "The published Recurrence Score formula expanded into per-gene weights, ignoring the assay's group thresholds and RT-PCR reference normalisation. An open approximation of the commercial test, not the test itself.",
+  "genes":   ["GRB7", "ERBB2", "ESR1", "PGR",  "BCL2",  "SCUBE2", "BIRC5", "MKI67", "MYBL2", "CCNB1", "AURKA", "CTSV", "MMP11", "CD68", "GSTM1", "BAG1"],
+  "weights": [0.423,  0.047,  -0.068, -0.102, -0.085, -0.085,   0.208,   0.208,   0.208,   0.208,   0.208,   0.05,   0.05,    0.05,   -0.08,   -0.07]
+}
