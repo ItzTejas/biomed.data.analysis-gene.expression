@@ -1,0 +1,6 @@
+{
+  "name": "PAM50 proliferation index (11 genes)",
+  "source": "Nielsen et al., Clin Cancer Res 2010, doi:10.1158/1078-0432.CCR-10-1282",
+  "cancer": "BRCA",
+  "genes": ["BIRC5", "CCNB1", "CDC20", "NUF2", "CEP55", "NDC80", "MKI67", "PTTG1", "RRM2", "TYMS", "UBE2C"]
+}
